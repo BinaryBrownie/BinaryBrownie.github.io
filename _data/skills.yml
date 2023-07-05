@@ -1,0 +1,17 @@
+programming:
+  - item: Python
+  - item: SQL
+
+
+frontend:
+  - item: HTML/CSS
+
+
+backend:
+  - item: Linux
+
+other:
+  - item: Agile
+  - item: Git
+  - item: Windows Administration
+  - item: Powershell

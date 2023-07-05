@@ -1,0 +1,43 @@
+# Site settings
+name: Sean Brown
+title: Sean Brown | University Student
+description: Curating my passions, one page at a time, to inspire and connect. 
+url: https://notseanbrown.com/
+baseurl: ''
+email: scb329@drexel.edu
+cover: https://notseanbrown.com/img/og.png
+logo: https://notseanbrown.com/img/emojis/top.png
+resume: https://notseanbrown.com/resume.pdf
+social:
+  - title: email
+    url: mailto:scb329@drexel.edu
+  - title: twitter
+    url: https://twitter.com/notseanbrown
+  - title: instagram
+    url: https://instagram.com/not_seanbrown
+  - title: github
+    url: https://github.com/binarybrownie
+  - title: linkedin
+    url: https://www.linkedin.com/in/sean-brown2
+
+# Build settings
+markdown: kramdown
+
+exclude:
+  - 'Gemfile'
+  - 'Gemfile.lock'
+  - '*.gemspec'
+  - 'README.md'
+  - 'node_modules'
+  - 'build'
+  - 'gulpfile.js'
+  - 'package.json'
+
+keep_files:
+  - 'CNAME'
+  - '.git'
+  - '.gitignore'
+
+plugins_dir:
+  - jekyll-minifier
+  - jekyll-sitemap

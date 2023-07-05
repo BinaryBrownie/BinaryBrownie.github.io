@@ -1,0 +1,27 @@
+- name: Zoforo
+  url: https://furious.tech/services/zoforo/
+  code: https://furious.tech/services/zoforo/
+  description: A powerful desktop application I built for a <a class="underline-link" href="http://jamiesonaccounting.com/ /">CPA firm</a> that enables them to tabulate and analyze thousands of financial statements in minutes. Uses OCR to scan bank and credit statements and determines each transaction's category via Plaid API. Replaces the need for human bookeepers.
+  used:
+    - thing: Java
+    - thing: JavaFX
+    - thing: SQL
+    - thing: Plaid API
+- name: Lakefield Library
+  url: https://github.com/itsfaraaz/Lakefield-Library
+  code: https://github.com/itsfaraaz/Lakefield-Library
+  description: An iOS app made for a <a class="underline-link" href="https://www.fbla-pbl.org/">business competition</a> I placed in. Features essential functions like search, self-checkout, overdue books, current holds, checkout history, and more. Won first place on a national level.
+  used:
+    - thing: Swift
+    - thing: Storyboards
+    - thing: Firebase
+    - thing: Apple Maps API
+- name: The Sky Experience
+  url: https://theskyexperience.com/
+  code: https://theskyexperience.com/
+  description: An e-commerece store I run that pays my college tuition. I source the products overseas and use shared fulfillments centers in the United States to deliver product. Website designed and maintained entirely by me.
+  used:
+    - thing: Business Development
+    - thing: Manufacturing
+    - thing: Logistics
+    - thing: Shopify

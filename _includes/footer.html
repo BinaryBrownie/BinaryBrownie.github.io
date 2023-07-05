@@ -1,0 +1,20 @@
+<footer class="footer">
+  <div class="footer__copyright">
+    <div class="top">
+      <img class="footer__logo" src="img/fkv.png">
+    </div>
+<!--
+    <div class="bottom">
+      <span>2018</span>
+    </div>
+-->
+  </div>
+  <div class="footer__links">
+    {% for link in site.social %}
+    <a href="{{link.url}}" target="_blank" title="{{link.title}}">
+      <span class="text">{{link.title}}</span>
+      <img src="img/social/{{link.title}}.png" alt="{{link.title}}">
+    </a>
+    {% endfor %}
+  </div>
+</footer>
