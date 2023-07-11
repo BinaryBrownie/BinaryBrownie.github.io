@@ -13,9 +13,6 @@
   description: input description
   used:
     - thing: Business Development
-    - thing: Manufacturing
-    - thing: Logistics
-    - thing: Shopify
 
 - name: Placeholder C
   url: https://theskyexperience.com/
@@ -23,8 +20,4 @@
   description: input description
   used:
     - thing: Business Development
-    - thing: Manufacturing
-    - thing: Logistics
-    - thing: Shopify
 
-    
