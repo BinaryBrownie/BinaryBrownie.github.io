@@ -1,7 +1,27 @@
-- name: The Sky Experience
+- name: The Decor Den
+  url: https://thedecorden.com/
+  code: https://thedecorden.com/
+  description: An e-commerece store I run that pays my college tuition. I source the products overseas and use shared fulfillments centers in the United States to deliver product. Website designed and maintained entirely by me.
+  used:
+    - thing: Business Development
+    - thing: Manufacturing
+    - thing: Logistics
+    - thing: Shopify
+
+- name: Placeholder B
   url: https://theskyexperience.com/
   code: https://theskyexperience.com/
-  description: An e-commerece store I run that pays my college tuition. I source the products overseas and use shared fulfillments centers in the United States to deliver product. Website designed and maintained entirely by me.
+  description: input description
+  used:
+    - thing: Business Development
+    - thing: Manufacturing
+    - thing: Logistics
+    - thing: Shopify
+
+- name: Placeholder C
+  url: https://theskyexperience.com/
+  code: https://theskyexperience.com/
+  description: input description
   used:
     - thing: Business Development
     - thing: Manufacturing
