@@ -1,11 +1,10 @@
 - name: The Decor Den
   url: https://thedecorden.com/
   code: https://thedecorden.com/
-  description: An e-commerece store I run that pays my college tuition. I source the products overseas and use shared fulfillments centers in the United States to deliver product. Website designed and maintained entirely by me.
+  description: An e-commerece store that I have recently started.  
   used:
     - thing: Business Development
-    - thing: Manufacturing
-    - thing: Logistics
+    - thing: E-Commerce
     - thing: Shopify
 
 - name: Placeholder B
@@ -27,3 +26,5 @@
     - thing: Manufacturing
     - thing: Logistics
     - thing: Shopify
+
+    
