@@ -7,17 +7,17 @@
     - thing: E-Commerce
     - thing: Shopify
 
-- name: Placeholder B
-  url: https://theskyexperience.com/
-  code: https://theskyexperience.com/
-  description: input description
+- name: 
+  url: 
+  code: 
+  description: 
   used:
-    - thing: Business Development
+    - thing: 
 
-- name: Placeholder C
-  url: https://theskyexperience.com/
-  code: https://theskyexperience.com/
-  description: input description
+- name:
+  url: 
+  code: 
+  description: 
   used:
-    - thing: Business Development
+    - thing: 
 
